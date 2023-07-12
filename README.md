@@ -4,7 +4,25 @@ Hi 👋 My name is ARPIT KUMAR TAPASWI
 Application Developer
 ---------------------
 
-I'm an enthusiast Android Developer • • Experience in • • • Kotlin. • Java. • MVVM Architecture pattern. • Jetpack libraries (Navigation , CameraX , Data Binding). • Kotlin Coroutines. • Java multi-threading. • RxJava and RxAndroid. • ExoPlayer. • Epoxy (Airbnb). • Retrofit 2. • Web-Engage. • Firebase. • Maintained Git workflows for Version Control (Source Code Management). • Managed GitHub repositories and permissions, including branching and tagging. • Experience in performing troubleshooting and also creating regular reports for management requirements.
+I'm an enthusiast Application Developer 
+
+• • Experience in • • 
+- Kotlin. 
+- Java. 
+- MVVM Architecture pattern. 
+- Jetpack libraries (Navigation , CameraX , Data Binding). 
+- Kotlin Coroutines. 
+- Java multi-threading. 
+- RxJava and RxAndroid. 
+- ExoPlayer. 
+- Epoxy (Airbnb). 
+- Retrofit 2. 
+- Web-Engage. 
+- Firebase. 
+- Maintained Git workflows for Version Control (Source Code Management). 
+- Managed GitHub repositories and permissions, including branching and tagging. 
+- Experience in performing troubleshooting and also creating regular reports for management requirements. 
+- Flutter Cross Platform Application Development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [arpit.tapaswi@live.com](mailto:arpit.tapaswi@live.com)
